@@ -3,7 +3,8 @@
     <img src="https://img.shields.io/badge/Feedback-blue?style=for-the-badge&logo=googleforms" />
   </a>
 </p>
-# 👋 Hi, I'm **Mohit Shah**
+
+👋 Hi, I'm **Mohit Shah**
 
 💡 *Data Analyst with 7+ years of experience in Data Analytics, BI, and Business Analytics*  
 
