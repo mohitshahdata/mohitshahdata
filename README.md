@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohit Shah  <p align="right">
 <p align="left">
-  <a href="https://forms.gle/PUT-YOUR-SHORT-LINK-HERE](https://docs.google.com/forms/d/1RsM2frP3BBYDT3sLz8bvUtzeADNVWIopj1dEwCA65wc/edit" target="_blank">
-    <img src="https://img.shields.io/badge/Feedback-Click%20Here-blue?style=for-the-badge&logo=googleforms" />
+  <a href="[YOUR_PUBLIC_LINK](https://docs.google.com/forms/d/1RsM2frP3BBYDT3sLz8bvUtzeADNVWIopj1dEwCA65wc/edit)" target="_blank">
+    <img src="https://img.shields.io/badge/Feedback-blue?style=for-the-badge&logo=googleforms" />
   </a>
 </p>
 
