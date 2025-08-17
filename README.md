@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohit Shah  
 
-💡 *Data Analyst & Business Analyst with 7+ years of experience in Data Analytics, BI, and Business Systems*  
+💡 *Data Analyst with 7+ years of experience in Data Analytics, BI, and Business Analytics*  
 
 - 🔍 Skilled in **SQL | Python | Power BI | Tableau | Excel | Data Modeling | Cloud (Azure, AWS)**
 - 📊 Experienced in **reporting, business analysis, dashboarding, and process optimization**
