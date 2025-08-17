@@ -23,7 +23,7 @@ Here are some projects that showcase my skills in **data analysis, business inte
 - Created a BI dashboard for **sales performance analysis**  
 - SQL + Power Query for ETL, DAX for custom KPIs  
 - Highlighted **regional sales growth, product performance, and trends**  
-- 📷 *![Sales OverView](https://github.com/user-attachments/assets/5a58842e-76a7-482e-848d-08178489a225)*
+- 📷 *![PhoneView](https://github.com/user-attachments/assets/bc194b4e-8abf-45a5-802a-df00a5629118)*
 
 ---
 
