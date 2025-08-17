@@ -1,4 +1,4 @@
-<p align="left">
+<p align="right">
   <a href="[https://docs.google.com/forms/d/1RsM2frP3BBYDT3sLz8bvUtzeADNVWIopj1dEwCA65wc/edit]" target="_blank">
     <img src="https://img.shields.io/badge/Feedback-blue?style=for-the-badge&logo=googleforms" />
   </a>
