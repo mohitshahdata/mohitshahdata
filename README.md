@@ -19,7 +19,7 @@
 
 Here are some projects that showcase my skills in **data analysis, business intelligence, and machine learning**:
 
-### 🔹 [Sales Performance Analysis (Power BI + Excel + SQL + Python)](https://github.com/analystmohitshah/sales-performance-analysis)
+### 🔹 [Sales Performance Analysis (Power BI + Excel + SQL + Python)](https://github.com/analystmohitshah/sales-perofrmance-analysis)
 - Created a BI dashboard for **sales performance analysis**  
 - SQL + Power Query for ETL, DAX for custom KPIs  
 - Highlighted **regional sales growth, product performance, and trends**  
