@@ -4,7 +4,10 @@
   </a>
 </p>
 
-👋 Hi, I'm **Mohit Shah**
+- 👋 Hi, I'm **Mohit Shah**
+- 👀 I’m interested in Data Visuliaztion, BI, Data Analysis using SQL, Python, R, PowerBI,Tableau
+- 🌱 I’m currently working on Azure certification.
+- 💞️ I’m looking to collaborate on realted to data analysis
 
 💡 *Data Analyst with 7+ years of experience in Data Analytics, BI, and Business Analytics*  
 
