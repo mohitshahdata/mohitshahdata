@@ -27,6 +27,12 @@ Here are some projects that showcase my skills in **data analysis, business inte
 - SQL + Power Query for ETL, DAX for custom KPIs  
 - Highlighted **regional sales growth, product performance, and trends**
 
+### 🔹 [Healthcare Expense Allocation & Analysis using Python](https://github.com/analystmohitshah/healthcare-expense-analysis)
+- Merged **expenses** and **visits** datasets to create a comprehensive analytical dataset.  
+- Calculated **expense per visit** for each functional centre and handled missing visit data.  
+- Computed **average expense per functional centre** for executive-level insights.  
+- Created **visualizations** (bar charts and boxplots) to highlight expense distribution and outliers.  
+- Demonstrates skills in **Python, Pandas, NumPy, Matplotlib, Seaborn**, and **healthcare financial analytics**.  
 ---
 
 ## 🛠️ Tech Stack & Tools
