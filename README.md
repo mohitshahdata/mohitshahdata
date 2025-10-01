@@ -45,6 +45,6 @@ Here are some projects that showcase my skills in **data analysis, business inte
 
 ## 🌐 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/analystmohitshah/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohtshahdata/)  
 - 📧 **mohitshahdata@gmail.com** 
 
