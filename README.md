@@ -8,7 +8,7 @@
 - 🌱 Currently pursuing Azure certification to expand cloud analytics skills
 - 💞️ Open to collaborations on data analysis, BI dashboards, and analytics projects
 
-💡 *Data Analyst with 7+ years of experience in Data Analytics, BI, and Business Analytics*  
+💡 *Business Intelligence Data Analyst with 6+ years of experience in Data Analytics, BI, and Business Analytics*  
 
 - 🔍 Skilled in **SQL | Python | Power BI | Tableau | Excel | Data Modeling | Cloud (Azure, AWS)**
 - 📊 Experienced in **reporting, business analysis, dashboarding, and process optimization**
