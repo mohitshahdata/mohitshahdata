@@ -31,7 +31,13 @@ Here are some projects that showcase my skills in **data analysis, business inte
 - Calculated **expense per visit** for each functional centre and handled missing visit data.  
 - Computed **average expense per functional centre** for executive-level insights.  
 - Created **visualizations** (bar charts and boxplots) to highlight expense distribution and outliers.  
-- Demonstrates skills in **Python, Pandas, NumPy, Matplotlib, Seaborn**, and **healthcare financial analytics**.  
+- Demonstrates skills in **Python, Pandas, NumPy, Matplotlib, Seaborn**, and **healthcare financial analytics**.
+
+### 🔹 [Product Analysis](https://github.com/mohitshahdata/product-analysis-insights/tree/main)
+- Executive Overview: Track total revenue, growth trends, and seasonal patterns.
+- Product & Location Insights: Identify top-selling products and underperforming locations.
+- Actionable Recommendations: Highlight strategies for boosting revenue, optimizing inventory, and guiding executive decisions.
+
 ---
 
 ## 🛠️ Tech Stack & Tools
